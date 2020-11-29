@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+Project made 11/25/2020, Readme made 11/29/2020
 
 ### Project Title
-Replace the Project Title
+Udacity Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Project is meant to analyze data from 3 cities based upon Bikeshare data
 
 ### Files used
-Include the files used
+Bikeshare.py contains code to the project
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Mostly Udacity and their Videos
 
